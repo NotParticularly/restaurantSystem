@@ -1,0 +1,17 @@
+C:\Users\ADMIN\source\repos\FoodRestaurant\FoodRestaurant\bin\Debug\FoodRestaurant.exe.config
+C:\Users\ADMIN\source\repos\FoodRestaurant\FoodRestaurant\bin\Debug\FoodRestaurant.exe
+C:\Users\ADMIN\source\repos\FoodRestaurant\FoodRestaurant\bin\Debug\FoodRestaurant.pdb
+C:\Users\ADMIN\source\repos\FoodRestaurant\FoodRestaurant\bin\Debug\FoodRestaurant.xml
+C:\Users\ADMIN\source\repos\FoodRestaurant\FoodRestaurant\obj\Debug\FoodRestaurant.vbproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\FoodRestaurant\FoodRestaurant\obj\Debug\FoodRestaurant.Form1.resources
+C:\Users\ADMIN\source\repos\FoodRestaurant\FoodRestaurant\obj\Debug\FoodRestaurant.Resources.resources
+C:\Users\ADMIN\source\repos\FoodRestaurant\FoodRestaurant\obj\Debug\FoodRestaurant.vbproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\FoodRestaurant\FoodRestaurant\obj\Debug\FoodRestaurant.vbproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\FoodRestaurant\FoodRestaurant\obj\Debug\FoodRestaurant.exe
+C:\Users\ADMIN\source\repos\FoodRestaurant\FoodRestaurant\obj\Debug\FoodRestaurant.xml
+C:\Users\ADMIN\source\repos\FoodRestaurant\FoodRestaurant\obj\Debug\FoodRestaurant.pdb
+C:\Users\ADMIN\source\repos\FoodRestaurant\FoodRestaurant\obj\Debug\FoodRestaurant.Beverages.resources
+C:\Users\ADMIN\source\repos\FoodRestaurant\FoodRestaurant\obj\Debug\FoodRestaurant.Chickens.resources
+C:\Users\ADMIN\source\repos\FoodRestaurant\FoodRestaurant\obj\Debug\FoodRestaurant.Bundles.resources
+C:\Users\ADMIN\source\repos\FoodRestaurant\FoodRestaurant\obj\Debug\FoodRestaurant.Pasta.resources
+C:\Users\ADMIN\source\repos\FoodRestaurant\FoodRestaurant\obj\Debug\FoodRestaurant.CustomerInfo.resources
